@@ -191,7 +191,7 @@ body { background: var(--white); }
 .header .logo { width: 120px; }
 
 .logo img { 
-  width: 70%;
+  width: 50%;
   margin: 0;
   padding: 0;
  }
